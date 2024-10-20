@@ -1,0 +1,36 @@
+TaskCompletionRate,WorkingHours,IdleTime,GoalsAchieved,Feedback
+0.8,8,0.5,5,Great work! Keep it up!
+0.6,6,2,3,Increase task completion and reduce idle time.
+0.5,5,3,2,Focus on reducing idle time and setting goals.
+0.9,9,0.2,6,Excellent performance! You're a star!
+0.7,7,1,4,Good effort! Try to set more goals next time.
+0.4,4,3.5,1,Needs significant improvement in task completion.
+0.95,8.5,0.1,7,Outstanding! Keep challenging yourself!
+0.55,5.5,2.5,3,Consider prioritizing tasks for better results.
+0.3,4,4,0,Reassess your strategies and focus on your goals.
+0.85,8,0.3,5,You're on the right track! Stay focused.
+0.65,6.5,1.5,3,Improvement needed in task completion.
+0.2,3,5,0,Immediate action required to meet your targets.
+0.75,7,0.8,4,Well done! Maintain this level of performance.
+0.9,10,0.2,8,Fantastic job! Aim for more complex goals next time.
+0.4,5,3,2,Develop a plan to enhance productivity.
+0.68,6,1.8,3,You're doing okay; focus on time management.
+0.78,7.5,1,5,Good job! Continue to strive for excellence.
+0.5,5,2,2,It's crucial to improve your time utilization.
+0.88,9,0.4,6,Impressive results! Keep it up!
+0.35,4.5,3,1,Consider seeking assistance for better performance.
+0.72,7,1.5,4,Good effort; stay organized for better results.
+1.0,8,0,6,"Excellent task completion rate! Keep up the consistency. You are working full hours, well done! Your idle time is minimal, great focus! You've achieved all your goals, amazing work!"
+0.3,0.0,40,3,"""You need to focus more on completing tasks efficiently. Consider putting in more working hours to meet your goals. Your idle time is quite high, focus on staying active. You've met some of your goals, but aim for more next time."""
+0.3,0.0,40,3,"""You need to focus more on completing tasks efficiently. Consider putting in more working hours to meet your goals. Your idle time is quite high, focus on staying active. You've met some of your goals, but aim for more next time."""
+0.3,0.0,40,3,"""You need to focus more on completing tasks efficiently. Consider putting in more working hours to meet your goals. Your idle time is quite high, focus on staying active. You've met some of your goals, but aim for more next time."""
+0.3,0.0,40,3,"""You need to focus more on completing tasks efficiently. Consider putting in more working hours to meet your goals. Your idle time is quite high, focus on staying active. You've met some of your goals, but aim for more next time."""
+0.3,0.0,40,3,"""You need to focus more on completing tasks efficiently. Consider putting in more working hours to meet your goals. Your idle time is quite high, focus on staying active. You've met some of your goals, but aim for more next time."""
+0.3,0.0,40,3,"""You need to focus more on completing tasks efficiently. Consider putting in more working hours to meet your goals. Your idle time is quite high, focus on staying active. You've met some of your goals, but aim for more next time."""
+0.3,0.0,40,3,"""You need to focus more on completing tasks efficiently. Consider putting in more working hours to meet your goals. Your idle time is quite high, focus on staying active. You've met some of your goals, but aim for more next time."""
+0.3,0.01,40,3,"""You need to focus more on completing tasks efficiently. Consider putting in more working hours to meet your goals. Your idle time is quite high, focus on staying active. You've met some of your goals, but aim for more next time."""
+0.3,0.01,40,3,"""You need to focus more on completing tasks efficiently. Consider putting in more working hours to meet your goals. Your idle time is quite high, focus on staying active. You've met some of your goals, but aim for more next time."""
+0.3,0.01,40,3,"""You need to focus more on completing tasks efficiently. Consider putting in more working hours to meet your goals. Your idle time is quite high, focus on staying active. You've met some of your goals, but aim for more next time."""
+0.3,0.01,40,3,"""You need to focus more on completing tasks efficiently. Consider putting in more working hours to meet your goals. Your idle time is quite high, focus on staying active. You've met some of your goals, but aim for more next time."""
+0.3,0.01,40,3,"""You need to focus more on completing tasks efficiently. Consider putting in more working hours to meet your goals. Your idle time is quite high, focus on staying active. You've met some of your goals, but aim for more next time."""
+0.3,0.01,40,3,"""You need to focus more on completing tasks efficiently. Consider putting in more working hours to meet your goals. Your idle time is quite high, focus on staying active. You've met some of your goals, but aim for more next time."""
